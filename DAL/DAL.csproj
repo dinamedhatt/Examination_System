@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.data.sqlclient" Version="2.1.1" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.0-preview.1.21102.12" />
+  </ItemGroup>
+
+</Project>
